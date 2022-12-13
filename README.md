@@ -1,2 +1,2 @@
 # ansible-mipt
-This asnible configuration is used in small MIPT cluster.
+This asnible configuration is used in small cluster.
